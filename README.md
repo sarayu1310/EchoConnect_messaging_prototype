@@ -59,6 +59,12 @@ To deploy this EchoConnect App, follow these steps:
 
 <br/>
 
+## Feature Description
+
+- **Group Creation & Personal Chat**: By clicking on the icon to the right of the user profile, a dialog box opens. From this dialog, you can:
+  - **Start a Personal Chat**: Initiate a one-on-one conversation with a selected user.
+  - **Create a Group**: Select multiple users to create a new group.
+
 ## 🚧 To Be Implemented
 
 - **Blue Tick**: Indicate read status for messages.
