@@ -1,4 +1,4 @@
-<h1 align="center">EcoConnect</h1>
+<h1 align="center">EchoConnect</h1>
 
 <p align="center">Make calls, share your screen and get a faster experience.</p>
 
@@ -21,7 +21,7 @@
 
 ## 🚀 Deployment Instructions
 
-To deploy this AI-powered WhatsApp clone, follow these steps:
+To deploy this EchoConnect App, follow these steps:
 
 1. *Install Dependencies*  
    Run `npm install` to install all required dependencies.
@@ -51,6 +51,19 @@ To deploy this AI-powered WhatsApp clone, follow these steps:
 7. *Run the Application*  
    Once all steps are completed, your AI-powered WhatsApp clone should be up and running.
 
+<br/>
+
+## 🚧 To Be Implemented
+
+- **Blue Tick**: Indicate read status for messages.
+- **Search**: Implement functionality to search through messages and chats.
+- **Delete Messages**: Enable users to delete individual messages.
+- **Delete Chat**: Allow users to delete entire chat histories.
+- **Filters**: Add filtering options for messages and chats.
+
+## ⚠️ Disclaimer
+
+The GPT-related features are currently non-functional due to a lack of credits on the OpenAI platform.
 <br/>
 
 <div align="center">
