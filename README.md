@@ -1,3 +1,7 @@
+**Name:** Gosika Sarayu  
+**Department:** Department of Geology and Geophysics  
+**University:** IIT Kharagpur
+
 <h1 align="center">EchoConnect</h1>
 
 <p align="center">Make calls, share your screen and get a faster experience.</p>
@@ -65,7 +69,3 @@ To deploy this EchoConnect App, follow these steps:
 
 The GPT-related features are currently non-functional due to a lack of credits on the OpenAI platform.
 <br/>
-
-<div align="center">
-  <h2>Thank You!</h2>
-</div>
