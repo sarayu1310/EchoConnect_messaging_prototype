@@ -1,6 +1,8 @@
-**Name:** Gosika Sarayu  
-**Department:** Department of Geology and Geophysics  
-**University:** IIT Kharagpur
+<p align="center">
+  <strong>Name:</strong>Gosika Sarayu<br>
+  <strong>Department:</strong> Department of Geology and Geophysics<br>
+  <strong>University:</strong> IIT Kharagpur
+</p>
 
 <h1 align="center">EchoConnect</h1>
 
