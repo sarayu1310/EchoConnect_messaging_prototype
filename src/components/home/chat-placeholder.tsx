@@ -11,11 +11,7 @@ const ChatPlaceHolder = () => {
 				<p className='w-1/2 text-center text-gray-primary text-sm text-muted-foreground'>
 					Make calls, share your screen and get a faster experience.
 				</p>
-
 			</div>
-			<p className='w-1/2 mt-auto text-center text-gray-primary text-xs text-muted-foreground flex items-center justify-center gap-1'>
-				<Lock size={10} /> Your personal messages are end-to-end encrypted
-			</p>
 		</div>
 	);
 };
