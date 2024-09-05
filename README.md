@@ -1,12 +1,12 @@
-<h1 align="center">AI Powered WhatsApp Clone</h1>
+<h1 align="center">EcoConnect</h1>
 
-<p align="center">Enhance your WhatsApp experience with AI-driven features by integrating GPT and DALL-E-3.</p>
+<p align="center">Make calls, share your screen and get a faster experience.</p>
 
 <br/>
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<div>
   <p><a href="https://convex.dev/" target="_blank" rel="noreferrer"><strong>Convex</strong></a> - For the database, real-time events, and cloud functions.</p>
   <p><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><strong>Next.js App Router</strong></a> - For the framework.</p>
   <p><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><strong>ShadCN</strong></a> - For UI components.</p>
