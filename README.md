@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Name:</strong>Gosika Sarayu<br>
+  <strong>Name:</strong> Gosika Sarayu<br>
   <strong>Department:</strong> Department of Geology and Geophysics<br>
   <strong>University:</strong> IIT Kharagpur
 </p>
